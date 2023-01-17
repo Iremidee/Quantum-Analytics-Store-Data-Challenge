@@ -1,5 +1,5 @@
 # Quantum-Store-Data-Challenge
-This analysis was intended to draw insight for the store management to help them in making decision for profitability improvement. The analysis covers the store perfomance overview between 2010 & 2011. The store has brances in 8 states across Australia. It sells 2 products - Fashion Direct Product Chain & Next Look Product Chain. It also sells 10 products subcategories.
+This analysis was intended to draw insight for the store management and help them in making decision for profitability improvement. The analysis covers the store perfomance overview between 2010 & 2011. The store has brances in 8 states across Australia. It sells 2 products - Fashion Direct Product Chain & Next Look Product Chain. It also sells 10 products subcategories.
 
 # Insights
 The Visualization Dashboard
