@@ -7,6 +7,13 @@ The Visualization Dashboard
 																				
 ![image](https://user-images.githubusercontent.com/101399363/212872888-5a47766a-fd4f-4145-9435-af50df7ea047.png)
 
+Total revenue generated 
+
+![image](https://user-images.githubusercontent.com/101399363/212881678-e00a7a51-488a-48fb-a46a-184c87353a14.png)
+
+![image](https://user-images.githubusercontent.com/101399363/212881538-eed6a36d-10f3-4295-a64f-5cf3e2c403de.png)
+
+
 - Fashion Direct Product Chain had the highest revenue (71%) in the 2 years data analyzed.
 
 ![image](https://user-images.githubusercontent.com/101399363/212876899-2e77bda1-e33c-4e9d-b32e-6cae4a2dcc8d.png)
